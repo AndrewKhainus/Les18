@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Les18</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_info">Show info</string>
+    <string name="delete_markers">Delete markers</string>
+    <string name="button_save">SAVE</string>
+
+</resources>
